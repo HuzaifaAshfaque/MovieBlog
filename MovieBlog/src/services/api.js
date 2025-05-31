@@ -1,4 +1,4 @@
-const API_KEY = "3ac853a3"
+const API_KEY = ""
 const BASE_URL = "http://www.omdbapi.com/"
 
 
